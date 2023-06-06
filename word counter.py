@@ -1,4 +1,4 @@
-list = "Help! Not just anybody Help! You know I need someone Help!"
+list = "Help! Not just anybody Help! You know I need someone, Help!"
 list = list.split()
 count = 0
 help = "Help!"
