@@ -2,7 +2,7 @@ example = "yankee doodle went to town riding on a pony stuck a feather up his bu
 
 vowels = ["a", "e", "i", "o", "u"]
 count = 0
-for character in example:
-    if character in vowels:
+for letter in example:
+    if letter in vowels:
         count += 1
 print(count)
